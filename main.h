@@ -1,2 +1,2 @@
-int printHello();
+int main();
 

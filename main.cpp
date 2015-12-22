@@ -1,16 +1,10 @@
 #include <iostream>
 using namespace std;
 #include "main.h"
+#include "hello.h"
 
 int main()
 {
     return printHello();
-}
-
-int printHello()
-{
-    cout << "Hello World!\n";
-
-    return 0;
 }
 
