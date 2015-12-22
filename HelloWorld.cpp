@@ -1,10 +1,15 @@
 #include <iostream>
 using namespace std;
 
-int main()
+int printHello()
 {
     cout << "Hello World!\n";
 
     return 0;
+}
+
+int main()
+{
+    return printHello();
 }
 
